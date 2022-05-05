@@ -3,4 +3,4 @@
 
 https://www.thingiverse.com/thing:3952021
 
-Clone of thingiverse files in case Makerbot shuts it down
+Clone of thingiverse files in case Makerbot shuts it down.  All credit to original author.
